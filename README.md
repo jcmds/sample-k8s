@@ -10,6 +10,8 @@ If you liked the project, please give a star ;)
 
 - Visual Studio 2019, Visual Studio Code or Rider
 - .Net Core 2.X +
+- Docker
+- K8s
 
 ## Description :books:
 
