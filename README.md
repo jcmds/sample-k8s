@@ -16,8 +16,6 @@ If you liked the project, please give a star ;)
 - [Official Documentation from Docker](https://www.docker.com/get-started)
 - [Official Documentation from Kubernetes](https://kubernetes.io/pt/docs/home/)
 
-## File decriptions :construction:
-
 |File   |Goal   |    
 |---|---|
 |k8sdeploy.yaml   |yaml file responsible for building poc's deployment and service |   
